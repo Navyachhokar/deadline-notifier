@@ -1,0 +1,23 @@
+./
+    .env
+    add_task.py
+    archive_tasks.py
+    completed.json
+    daily_runner.py
+    deadlines.json
+    delete_task.py
+    edit_task.py
+    email_notifier.py
+    file_list.txt
+    list_files.py
+    log.txt
+    notifier.py
+    scheduler.py
+    send_message.py
+    test_notifier.py
+    view_completed.py
+    view_tasks.py
+    __pycache__/
+        email_notifier.cpython-312.pyc
+        notifier.cpython-312.pyc
+        scheduler.cpython-312.pyc

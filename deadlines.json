@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Submit Resume",
+        "due_date": "2025-07-27",
+        "phone": "+918595858384",
+        "notified_days": [
+            3
+        ]
+    },
+    {
+        "title": "Return Book",
+        "due_date": "2025-07-26",
+        "email": "navya21092004@gmail.com",
+        "phone": "+918595858384",
+        "notified_days": [
+            3
+        ]
+    },
+    {
+        "title": "Test Task",
+        "due_date": "2025-07-24",
+        "phone": "+918595858384",
+        "notified_days": [
+            1
+        ]
+    }
+]
