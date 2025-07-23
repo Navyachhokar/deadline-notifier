@@ -54,3 +54,24 @@ A simple command-line task and deadline manager with daily reminders and email n
    ```bash
    git clone https://github.com/Navyachhokar/deadline-notifier.git
    cd deadline-manager
+   
+2. Add your .env file:
+   EMAIL_ID=your-email@gmail.com
+   EMAIL_PASSWORD=your-app-password
+   
+3. Run the main task checker:
+   ```bash
+   python daily_runner.py
+
+
+
+📌 Note
+
+    This is a personal utility project meant to learn automation and Python scripting.
+
+    Can be extended with GUI or web integration in the future.
+
+
+📄 License
+
+   MIT
